@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://www.testmuai.com/selenium-playground/",
+  "video": true,
+  "screenshotsFolder": "cypress/screenshots",
+  "videosFolder": "cypress/videos"
+}
